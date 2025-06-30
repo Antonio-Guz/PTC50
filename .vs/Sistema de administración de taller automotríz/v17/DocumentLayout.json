@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\guzma\\Desktop\\PTC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F18CE3F2-C549-4873-8C6D-04DAFF886202}|Modelos\\Modelos.csproj|c:\\users\\guzma\\desktop\\ptc\\modelos\\conexion\\connectiontosql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F18CE3F2-C549-4873-8C6D-04DAFF886202}|Modelos\\Modelos.csproj|solutionrelative:modelos\\conexion\\connectiontosql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64772EF5-100C-4666-9FDA-1913C95B8926}|Vistas\\Vistas.csproj|c:\\users\\guzma\\desktop\\ptc\\vistas\\forms\\interfazadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64772EF5-100C-4666-9FDA-1913C95B8926}|Vistas\\Vistas.csproj|solutionrelative:vistas\\forms\\interfazadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64772EF5-100C-4666-9FDA-1913C95B8926}|Vistas\\Vistas.csproj|c:\\users\\guzma\\desktop\\ptc\\vistas\\forms\\interfazadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64772EF5-100C-4666-9FDA-1913C95B8926}|Vistas\\Vistas.csproj|solutionrelative:vistas\\forms\\interfazadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64772EF5-100C-4666-9FDA-1913C95B8926}|Vistas\\Vistas.csproj|c:\\users\\guzma\\desktop\\ptc\\vistas\\forms\\interfazadmin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64772EF5-100C-4666-9FDA-1913C95B8926}|Vistas\\Vistas.csproj|solutionrelative:vistas\\forms\\interfazadmin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64772EF5-100C-4666-9FDA-1913C95B8926}|Vistas\\Vistas.csproj|c:\\users\\guzma\\desktop\\ptc\\vistas\\forms\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64772EF5-100C-4666-9FDA-1913C95B8926}|Vistas\\Vistas.csproj|solutionrelative:vistas\\forms\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConnectionToSql.cs",
+              "DocumentMoniker": "C:\\Users\\guzma\\Desktop\\PTC\\Modelos\\Conexion\\ConnectionToSql.cs",
+              "RelativeDocumentMoniker": "Modelos\\Conexion\\ConnectionToSql.cs",
+              "ToolTip": "C:\\Users\\guzma\\Desktop\\PTC\\Modelos\\Conexion\\ConnectionToSql.cs",
+              "RelativeToolTip": "Modelos\\Conexion\\ConnectionToSql.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T22:52:26.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InterfazAdmin.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\guzma\\Desktop\\PTC\\Vistas\\Forms\\InterfazAdmin.Designer.cs",
+              "RelativeDocumentMoniker": "Vistas\\Forms\\InterfazAdmin.Designer.cs",
+              "ToolTip": "C:\\Users\\guzma\\Desktop\\PTC\\Vistas\\Forms\\InterfazAdmin.Designer.cs",
+              "RelativeToolTip": "Vistas\\Forms\\InterfazAdmin.Designer.cs",
+              "ViewState": "AgIAAI8AAAAAAAAAAAAmwJ4AAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T22:48:34.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\guzma\\Desktop\\PTC\\Vistas\\Forms\\Login.cs",
+              "RelativeDocumentMoniker": "Vistas\\Forms\\Login.cs",
+              "ToolTip": "C:\\Users\\guzma\\Desktop\\PTC\\Vistas\\Forms\\Login.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Vistas\\Forms\\Login.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T20:56:34.82Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InterfazAdmin.cs",
+              "DocumentMoniker": "C:\\Users\\guzma\\Desktop\\PTC\\Vistas\\Forms\\InterfazAdmin.cs",
+              "RelativeDocumentMoniker": "Vistas\\Forms\\InterfazAdmin.cs",
+              "ToolTip": "C:\\Users\\guzma\\Desktop\\PTC\\Vistas\\Forms\\InterfazAdmin.cs",
+              "RelativeToolTip": "Vistas\\Forms\\InterfazAdmin.cs",
+              "ViewState": "AgIAAKAAAAAAAAAAAAAiwLEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T19:40:34.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InterfazAdmin.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\guzma\\Desktop\\PTC\\Vistas\\Forms\\InterfazAdmin.cs",
+              "RelativeDocumentMoniker": "Vistas\\Forms\\InterfazAdmin.cs",
+              "ToolTip": "C:\\Users\\guzma\\Desktop\\PTC\\Vistas\\Forms\\InterfazAdmin.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Vistas\\Forms\\InterfazAdmin.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T19:38:34.202Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
