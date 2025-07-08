@@ -10,7 +10,7 @@ namespace DataAccess
 {
     public class UserDao:ConnectionToSql
     {
-        public bool Login(string user,string pass)
+        public bool Login(string user, string pass)
         {
             using (var connection = GetConnection())
             {
@@ -18,8 +18,8 @@ namespace DataAccess
                 using (var command = connection.CreateCommand())
                 {
                     command.Connection = connection;
-                    command.CommandText = "select*from Usuario where nombreUsuario=@user and Password=@pass";
-                    command.Parameters.AddWithValue("@user",user);
+                    command.CommandText = "select*from Usuario where nombreUsuario=@user and clave=@pass";
+                    command.Parameters.AddWithValue("@user", user);
                     command.Parameters.AddWithValue("@pass", pass);
                     command.CommandType = CommandType.Text;
 

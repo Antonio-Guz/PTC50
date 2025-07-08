@@ -7,15 +7,16 @@ using System.Data.SqlClient;
 
 namespace DataAccess
 {
-    public abstract class ConnectionToSql
+    public class ConnectionToSql
     {
         private readonly string connectionString;
+
         public ConnectionToSql()
         {
-            connectionString = "Server=LPSTITCH;DataBase= Ptc_Diagrama; integrated security= true";
-
+            connectionString = "Server=LPSTITCH;DataBase=SistemaDeAdministracionTallerAutomotrizDB;integrated security=true";
         }
-        protected SqlConnection GetConnection()
+
+        public SqlConnection GetConnection()
         {
             return new SqlConnection(connectionString);
         }
